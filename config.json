@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "command": ".donate",
+  "shop_name": "ใส่ชื่อร้าน",
+  "phone": "ใส่เบอร์",
+  "role_donateid": "ใส่ยศโดเนท",
+
+  "webhook_log": "ใส่เว็ปฮุก",
+  "ownerID": [
+    "ใส่ดิสครอดไอดีมึงอะ"
+  ],
+
+  "port": 3000
+}
