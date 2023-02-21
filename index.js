@@ -4,7 +4,7 @@ const colors = require("colors");
 const axios = require("axios");
 var use_webhook = true;
 
-console.log("");
+console.log("https://github.com/JJTChannel/Donate-Bot");
 
 const client = new Discord.Client({
   intents: [
